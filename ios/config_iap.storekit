@@ -1,0 +1,66 @@
+{
+  "identifier" : "CF9720B7",
+  "nonRenewingSubscriptions" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "4884251F",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "dev.timistudio.monsey.mobile.oneyear",
+      "referenceName" : "One Year Subscription",
+      "type" : "NonRenewingSubscription"
+    }
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "C32790C5",
+      "localizations" : [
+
+      ],
+      "name" : "Monsey",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "1.99",
+          "familyShareable" : true,
+          "groupNumber" : 1,
+          "internalID" : "57175234",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "dev.timistudio.monsey.mobile.autosubscription",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Auto One Year Subscription",
+          "subscriptionGroupID" : "C32790C5",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}

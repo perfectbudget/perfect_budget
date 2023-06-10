@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "800228398325",
+    "project_id": "perfectbudget-1ede1",
+    "storage_bucket": "perfectbudget-1ede1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800228398325:android:7a109cd382e0796e0021bc",
+        "android_client_info": {
+          "package_name": "com.perfectbudget.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800228398325-tgbthqhh6kkcsulq87rgbbu8mr4hflot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.perfectbudget.app",
+            "certificate_hash": "eb2f509960c869bdcdad45eacaa7df78b65c3206"
+          }
+        },
+        {
+          "client_id": "800228398325-nr83o1nrobor1js6qgucpmf07rm4r3e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQ9M22gs8fqo_GaEIeZ-hDWV4FOF73tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800228398325-bp8rklqil6djt6mg96b1a0ot0dcc2jqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800228398325-v3nu1lkfr74sfudfi1m97l4rdeskdejf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.perfectbudget.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
